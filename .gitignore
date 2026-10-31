@@ -1,0 +1,9 @@
+*.pth
+*.pt
+*.ckpt
+*.npz
+data/
+Dataset/
+wandb/
+.ipynb_checkpoints/
+__pycache__/
